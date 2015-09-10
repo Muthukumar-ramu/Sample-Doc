@@ -1,11 +1,1 @@
-AccountName_Up__c
-GE_HQ_GE_Status_Flag__c --Field Important
-GE_HQ_DUNS_Number__c -- Field Important
-GE_ES_Explanation__c -- Lead
-GE_HQ_ZipCode__c -- Lead
-GE_PW_Opportunity_Wrapper-class Deal management 
-GEESSubmitForApproval ,GEESUtil,classes are not included(GE_PW_Scope_Risk_Score__c)-Deal management
-geessubmitforapprovalScope page are not included
-Field Not Important
-
-SELECT AIES_ACCENTURE__APIName__c,AIES_ACCENTURE__IsFieldImportantText__c,AIES_ACCENTURE__IsMandatory__c,AIES_ACCENTURE__SObject__c FROM AIES_ACCENTURE__Field__c where AIES_ACCENTURE__IsFieldImportantText__c='Field Important' and AIES_ACCENTURE__SObject__r.name='Account'  and AIES_ACCENTURE__SObject__r.AIES_ACCENTURE__Portfolio__c='aCQq00000008Otk'
+dfgsdfgsgd
